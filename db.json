@@ -1,0 +1,89 @@
+{
+    "Genre": [
+        {   
+            "id": "1", 
+            "text": "Rock"
+        },
+        {   
+            "id": "2", 
+            "text": "Hip Hop"
+        },
+        {   
+            "id": "3", 
+            "text": "Electronic"
+        },
+        {   
+            "id": "4", 
+            "text": "Nu Disco"
+        }
+    ],
+    
+    "Album": [
+        { 
+            "id": "1", 
+            "title": "Paid Salvation", 
+            "artist": "A. Swayze & the Ghosts",
+            "genreID": 1
+        },
+        {
+            "id": "2", 
+            "title": "Dr. Lecter", 
+            "artist": "Action Bronson",
+            "genreID": 2
+        },
+        {
+            "id": "3", 
+            "title": "Analog Love", 
+            "artist": "Dabeull",
+            "genreID": 4
+        },
+        {
+            "id": "4", 
+            "title": "Galaxies Between Us", 
+            "artist": "Kill Paris",
+            "genreID": 3
+        },
+        {
+            "id": "5", 
+            "title": "Baby Blue and the Super Moon", 
+            "artist": "tiedye ky",
+            "genreID": 3
+        }
+    ],
+    
+    
+
+    "Reviews": [
+        {
+            "id": 1,
+            "albumId": 1,
+            "rating": "10/10",
+            "text": "Absolute smasher, hit the beach and crack a cold one"
+        },
+        {
+            "id": 2,
+            "albumId": 2,
+            "rating": "10/10",
+            "text": "Superior wordplay, the very best of Bronson"
+        },
+        {
+            "id": 3,
+            "albumId": 3,
+            "rating": "10/10",
+            "text": "Got a girl? Show her this"
+        },
+        {
+            "id": 4,
+            "albumId": 4,
+            "rating": "10/10",
+            "text": "Been a long time favorite, a musical journey"
+        },
+        {
+            "id": 5,
+            "albumId": 5,
+            "rating": "10/10",
+            "text": "A blend of genres, TDK shines on his debut album"
+        }
+    ]
+      
+  }
